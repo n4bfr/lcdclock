@@ -21,4 +21,4 @@ LCD Driver: pip3 install adafruit-circuitpython-charlcd
 
 GPS for Python: pip install gps3 
 
-
+For more information on this project see my blog: https://n4bfr.com/2020/05/lcdclock-my-first-github-project/
