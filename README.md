@@ -15,4 +15,8 @@ tracking.txt - dynamically created file
   If using a version of NTP modify apropriately.
   If you see Stratum 99 you are not getting the apropriate file written
  
+Library dependencies
+LCD Driver: pip3 install adafruit-circuitpython-charlcd
+GPS for Python: pip install gps3
+
 
