@@ -17,6 +17,6 @@ tracking.txt - dynamically created file
  
 Library dependencies
   LCD Driver: pip3 install adafruit-circuitpython-charlcd
-  GPS for Python: pip install gps3
+  GPS for Python: pip install gps3 
 
 
