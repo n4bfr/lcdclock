@@ -16,7 +16,9 @@ tracking.txt - dynamically created file
   If you see Stratum 99 you are not getting the apropriate file written
  
 Library dependencies
-  LCD Driver: pip3 install adafruit-circuitpython-charlcd
-  GPS for Python: pip install gps3 
+
+LCD Driver: pip3 install adafruit-circuitpython-charlcd
+
+GPS for Python: pip install gps3 
 
 
